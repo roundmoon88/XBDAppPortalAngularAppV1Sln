@@ -12,7 +12,7 @@ namespace XBDAppPortalAngularApp.DAL
             IAppEntityOperation<IList<XDbAppDTO>> appEntityOperationGetList = new AppEntityOperationGetList();
             return appEntityOperationGetList.Resolve();
         }
-
+        //test git push 
         public static IList<XDbAppDTO> GetXBDAppEntityOperationListByFilter(IList<FilterDTO> fiters)
         {
             //public IList<XDbAppDTO> Resolve(IList<FilterDTO> fiters)

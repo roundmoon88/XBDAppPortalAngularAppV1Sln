@@ -11,7 +11,7 @@ namespace XBDAppPortalAngularApp.DTO
         public bool Selected { get; set; }
         public FilterEnum FilterName { get; set; }
     }
-    //test git detected
+    //test git detected//test 2//test 3
     public enum FilterEnum
     {
         App = 1,
