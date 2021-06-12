@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ybBfz6Nus9mk6lsj5+kttJP231/l/Y85Q9rFo25lS1hcLfeBloMNmz73mQlPFfAwQMhPkLgH4i7jVIZfT4V+Ng==",
+  "dgSpecHash": "0mEecoN0frDqF30FTsFI4KQ4FHofqBTgRe/q/eA0jEd9FB5CPVcjjuuhd18AsdktxUfhgUzLh6nQi9KYdJocUA==",
   "success": true,
-  "projectFilePath": "C:\\MyPractices\\Projects\\XBDAppPortals\\DotNetCore\\Angular\\XBDAppPortalAngularAppSlnV1.1\\XBDAppPortalAngularAppV1Sln\\XBDAppPortalAngularApp.DAL\\XBDAppPortalAngularApp.DAL.csproj",
+  "projectFilePath": "C:\\Users\\richard\\Desktop\\Git\\XBDAppPortalAngularAppV1Sln\\XBDAppPortalAngularApp.DAL\\XBDAppPortalAngularApp.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\richard\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\richard\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

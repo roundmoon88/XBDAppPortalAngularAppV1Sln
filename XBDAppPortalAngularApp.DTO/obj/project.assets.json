@@ -187,11 +187,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MyPractices\\Projects\\XBDAppPortals\\DotNetCore\\Angular\\XBDAppPortalAngularAppSlnV1.1\\XBDAppPortalAngularAppV1Sln\\XBDAppPortalAngularApp.DTO\\XBDAppPortalAngularApp.DTO.csproj",
+      "projectUniqueName": "C:\\Users\\richard\\Desktop\\Git\\XBDAppPortalAngularAppV1Sln\\XBDAppPortalAngularApp.DTO\\XBDAppPortalAngularApp.DTO.csproj",
       "projectName": "XBDAppPortalAngularApp.DTO",
-      "projectPath": "C:\\MyPractices\\Projects\\XBDAppPortals\\DotNetCore\\Angular\\XBDAppPortalAngularAppSlnV1.1\\XBDAppPortalAngularAppV1Sln\\XBDAppPortalAngularApp.DTO\\XBDAppPortalAngularApp.DTO.csproj",
+      "projectPath": "C:\\Users\\richard\\Desktop\\Git\\XBDAppPortalAngularAppV1Sln\\XBDAppPortalAngularApp.DTO\\XBDAppPortalAngularApp.DTO.csproj",
       "packagesPath": "C:\\Users\\richard\\.nuget\\packages\\",
-      "outputPath": "C:\\MyPractices\\Projects\\XBDAppPortals\\DotNetCore\\Angular\\XBDAppPortalAngularAppSlnV1.1\\XBDAppPortalAngularAppV1Sln\\XBDAppPortalAngularApp.DTO\\obj\\",
+      "outputPath": "C:\\Users\\richard\\Desktop\\Git\\XBDAppPortalAngularAppV1Sln\\XBDAppPortalAngularApp.DTO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

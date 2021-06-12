@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SSkwVm13aqKXPvJKU0JRVPlcR+PNt8HN4rGZUqcFBV+2w/zq8VG9DATFDFqV0eP48xe9kMF4qBRVvkhLLJqh+g==",
+  "dgSpecHash": "vKYWyH+j//o36mkUIrPs6IzMPxNjQyMwvewSV8FnGG0xIwVHqGGsipS/4h3f1cTfGctPPtVxS9uda8/vljakXQ==",
   "success": true,
-  "projectFilePath": "C:\\MyPractices\\Projects\\XBDAppPortals\\DotNetCore\\Angular\\XBDAppPortalAngularAppSlnV1.1\\XBDAppPortalAngularAppV1Sln\\XBDAppPortalAngularApp.DTO\\XBDAppPortalAngularApp.DTO.csproj",
+  "projectFilePath": "C:\\Users\\richard\\Desktop\\Git\\XBDAppPortalAngularAppV1Sln\\XBDAppPortalAngularApp.DTO\\XBDAppPortalAngularApp.DTO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\richard\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\richard\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
