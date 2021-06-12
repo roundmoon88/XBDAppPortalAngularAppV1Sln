@@ -1,0 +1,14 @@
+C:\MyPractices\Projects\XBDAppPortals\DotNetCore\Angular\XBDAppPortalAngularAppSlnV1.1\XBDAppPortalAngularAppV1Sln\XBDAppPortalAngularApp.BLL\bin\Release\netstandard2.0\XBDAppPortalAngularApp.BLL.deps.json
+C:\MyPractices\Projects\XBDAppPortals\DotNetCore\Angular\XBDAppPortalAngularAppSlnV1.1\XBDAppPortalAngularAppV1Sln\XBDAppPortalAngularApp.BLL\bin\Release\netstandard2.0\XBDAppPortalAngularApp.BLL.dll
+C:\MyPractices\Projects\XBDAppPortals\DotNetCore\Angular\XBDAppPortalAngularAppSlnV1.1\XBDAppPortalAngularAppV1Sln\XBDAppPortalAngularApp.BLL\bin\Release\netstandard2.0\XBDAppPortalAngularApp.BLL.pdb
+C:\MyPractices\Projects\XBDAppPortals\DotNetCore\Angular\XBDAppPortalAngularAppSlnV1.1\XBDAppPortalAngularAppV1Sln\XBDAppPortalAngularApp.BLL\bin\Release\netstandard2.0\XBDAppPortalAngularApp.DAL.dll
+C:\MyPractices\Projects\XBDAppPortals\DotNetCore\Angular\XBDAppPortalAngularAppSlnV1.1\XBDAppPortalAngularAppV1Sln\XBDAppPortalAngularApp.BLL\bin\Release\netstandard2.0\XBDAppPortalAngularApp.DTO.dll
+C:\MyPractices\Projects\XBDAppPortals\DotNetCore\Angular\XBDAppPortalAngularAppSlnV1.1\XBDAppPortalAngularAppV1Sln\XBDAppPortalAngularApp.BLL\bin\Release\netstandard2.0\XBDAppPortalAngularApp.DAL.pdb
+C:\MyPractices\Projects\XBDAppPortals\DotNetCore\Angular\XBDAppPortalAngularAppSlnV1.1\XBDAppPortalAngularAppV1Sln\XBDAppPortalAngularApp.BLL\bin\Release\netstandard2.0\XBDAppPortalAngularApp.DTO.pdb
+C:\MyPractices\Projects\XBDAppPortals\DotNetCore\Angular\XBDAppPortalAngularAppSlnV1.1\XBDAppPortalAngularAppV1Sln\XBDAppPortalAngularApp.BLL\obj\Release\netstandard2.0\XBDAppPortalAngularApp.BLL.csprojAssemblyReference.cache
+C:\MyPractices\Projects\XBDAppPortals\DotNetCore\Angular\XBDAppPortalAngularAppSlnV1.1\XBDAppPortalAngularAppV1Sln\XBDAppPortalAngularApp.BLL\obj\Release\netstandard2.0\XBDAppPortalAngularApp.BLL.AssemblyInfoInputs.cache
+C:\MyPractices\Projects\XBDAppPortals\DotNetCore\Angular\XBDAppPortalAngularAppSlnV1.1\XBDAppPortalAngularAppV1Sln\XBDAppPortalAngularApp.BLL\obj\Release\netstandard2.0\XBDAppPortalAngularApp.BLL.AssemblyInfo.cs
+C:\MyPractices\Projects\XBDAppPortals\DotNetCore\Angular\XBDAppPortalAngularAppSlnV1.1\XBDAppPortalAngularAppV1Sln\XBDAppPortalAngularApp.BLL\obj\Release\netstandard2.0\XBDAppPortalAngularApp.BLL.csproj.CoreCompileInputs.cache
+C:\MyPractices\Projects\XBDAppPortals\DotNetCore\Angular\XBDAppPortalAngularAppSlnV1.1\XBDAppPortalAngularAppV1Sln\XBDAppPortalAngularApp.BLL\obj\Release\netstandard2.0\XBDAppPortalAngularApp.BLL.csproj.CopyComplete
+C:\MyPractices\Projects\XBDAppPortals\DotNetCore\Angular\XBDAppPortalAngularAppSlnV1.1\XBDAppPortalAngularAppV1Sln\XBDAppPortalAngularApp.BLL\obj\Release\netstandard2.0\XBDAppPortalAngularApp.BLL.dll
+C:\MyPractices\Projects\XBDAppPortals\DotNetCore\Angular\XBDAppPortalAngularAppSlnV1.1\XBDAppPortalAngularAppV1Sln\XBDAppPortalAngularApp.BLL\obj\Release\netstandard2.0\XBDAppPortalAngularApp.BLL.pdb

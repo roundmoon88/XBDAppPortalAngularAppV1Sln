@@ -1,0 +1,36 @@
+
+<div class="portalListRoot">
+  <div class="header">Welcome to Ribo App Portals (Angular) </div>
+  <div class="filterWrap">
+    <select name="ddlAppName" id="ddlAppName" class="filter" [(ngModel)]="appSelected">
+      <option selected="selected" value="0">All Apps</option>
+      <option *ngFor="let i of filterApps" value="{{ i.itemId }}">{{ i.item }}</option>
+    </select>
+    <select name="ddlAppType" id="ddlAppType" class="filter" [(ngModel)]="appTypeSelected">
+      <option value="0">All App Types</option>
+      <option *ngFor="let i of filterAppTypes" value="{{ i.itemId }}">{{ i.item }}</option>
+    </select>
+    <input type="button" name="btnFilter" value="Go" id="btnFilter" class="filter" (click)="onGoClick()" />
+  </div>
+
+
+  <table class="">
+    <tr class="">
+      <th class="column">AppId</th>
+      <th class="column">App Name</th>
+      <th class="column">App Description</th>
+      <th class="column">AppTypeId</th>
+      <th class="column">App Type</th>
+    </tr>
+    <tr *ngFor="let p of appPortals">
+      <td>{{ p.appId}}</td>
+      <td>{{ p.appName}}</td>
+      <td>{{ p.appDes}}</td>
+      <td>{{ p.appTypeId}}</td>
+      <td>{{ p.appType}}</td>
+    </tr>
+
+
+  </table>
+
+</div>

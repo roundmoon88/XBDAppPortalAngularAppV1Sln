@@ -1,0 +1,12 @@
+C:\MyPractices\Projects\XBDAppPortals\DotNetCore\Angular\XBDAppPortalAngularAppSlnV1.1\XBDAppPortalAngularAppV1Sln\XBDAppPortalAngularApp.DAL\bin\Debug\netstandard2.0\XBDAppPortalAngularApp.DAL.deps.json
+C:\MyPractices\Projects\XBDAppPortals\DotNetCore\Angular\XBDAppPortalAngularAppSlnV1.1\XBDAppPortalAngularAppV1Sln\XBDAppPortalAngularApp.DAL\bin\Debug\netstandard2.0\XBDAppPortalAngularApp.DAL.dll
+C:\MyPractices\Projects\XBDAppPortals\DotNetCore\Angular\XBDAppPortalAngularAppSlnV1.1\XBDAppPortalAngularAppV1Sln\XBDAppPortalAngularApp.DAL\bin\Debug\netstandard2.0\XBDAppPortalAngularApp.DAL.pdb
+C:\MyPractices\Projects\XBDAppPortals\DotNetCore\Angular\XBDAppPortalAngularAppSlnV1.1\XBDAppPortalAngularAppV1Sln\XBDAppPortalAngularApp.DAL\bin\Debug\netstandard2.0\XBDAppPortalAngularApp.DTO.dll
+C:\MyPractices\Projects\XBDAppPortals\DotNetCore\Angular\XBDAppPortalAngularAppSlnV1.1\XBDAppPortalAngularAppV1Sln\XBDAppPortalAngularApp.DAL\bin\Debug\netstandard2.0\XBDAppPortalAngularApp.DTO.pdb
+C:\MyPractices\Projects\XBDAppPortals\DotNetCore\Angular\XBDAppPortalAngularAppSlnV1.1\XBDAppPortalAngularAppV1Sln\XBDAppPortalAngularApp.DAL\obj\Debug\netstandard2.0\XBDAppPortalAngularApp.DAL.AssemblyInfoInputs.cache
+C:\MyPractices\Projects\XBDAppPortals\DotNetCore\Angular\XBDAppPortalAngularAppSlnV1.1\XBDAppPortalAngularAppV1Sln\XBDAppPortalAngularApp.DAL\obj\Debug\netstandard2.0\XBDAppPortalAngularApp.DAL.AssemblyInfo.cs
+C:\MyPractices\Projects\XBDAppPortals\DotNetCore\Angular\XBDAppPortalAngularAppSlnV1.1\XBDAppPortalAngularAppV1Sln\XBDAppPortalAngularApp.DAL\obj\Debug\netstandard2.0\XBDAppPortalAngularApp.DAL.csproj.CoreCompileInputs.cache
+C:\MyPractices\Projects\XBDAppPortals\DotNetCore\Angular\XBDAppPortalAngularAppSlnV1.1\XBDAppPortalAngularAppV1Sln\XBDAppPortalAngularApp.DAL\obj\Debug\netstandard2.0\XBDAppPortalAngularApp.DAL.csproj.CopyComplete
+C:\MyPractices\Projects\XBDAppPortals\DotNetCore\Angular\XBDAppPortalAngularAppSlnV1.1\XBDAppPortalAngularAppV1Sln\XBDAppPortalAngularApp.DAL\obj\Debug\netstandard2.0\XBDAppPortalAngularApp.DAL.dll
+C:\MyPractices\Projects\XBDAppPortals\DotNetCore\Angular\XBDAppPortalAngularAppSlnV1.1\XBDAppPortalAngularAppV1Sln\XBDAppPortalAngularApp.DAL\obj\Debug\netstandard2.0\XBDAppPortalAngularApp.DAL.pdb
+C:\MyPractices\Projects\XBDAppPortals\DotNetCore\Angular\XBDAppPortalAngularAppSlnV1.1\XBDAppPortalAngularAppV1Sln\XBDAppPortalAngularApp.DAL\obj\Debug\netstandard2.0\XBDAppPortalAngularApp.DAL.csproj.AssemblyReference.cache
